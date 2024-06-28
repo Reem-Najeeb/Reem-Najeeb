@@ -1,4 +1,4 @@
-- Hello 🤗 , My name is Reem Najeeb, and I am a web developer
+- Hello 🤗 , My name is Reem Najeeb, and I am a software engineer. I want to become a web developer.
 - 🎓 I'm nearing the completion of my studies in Information Technology at Aden University - College of Engineering.
 - 📌 I’m interested in Full-stack web development.
 - 👨🏻‍💻 I'm currently focused on enhancing my skills in web development.
